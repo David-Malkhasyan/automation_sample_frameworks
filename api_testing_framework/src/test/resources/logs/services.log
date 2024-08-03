@@ -1,0 +1,26 @@
+16:57:49.114 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 11
+16:57:50.424 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 500 and time: 952
+17:10:14.503 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 11
+17:10:16.029 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 500 and time: 1048
+17:11:58.627 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+17:11:59.975 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 500 and time: 919
+17:12:22.532 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+17:12:23.859 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 929
+17:13:10.052 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+17:13:11.331 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 939
+17:19:35.558 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+17:19:36.994 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 1024
+09:58:46.132 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+09:58:48.603 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 2039
+10:05:27.163 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+10:05:28.839 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 1369
+10:05:41.716 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+10:05:42.901 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 851
+16:03:06.965 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+16:03:08.456 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 404 and time: 1136
+16:44:09.901 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+16:44:11.124 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 868
+16:47:56.942 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 
+16:47:58.151 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 909
+17:11:35.504 [main] INFO  tests.AvailablePetTest - Get request to endpoint: 11
+17:11:36.879 [main] INFO  tests.AvailablePetTest - Response. Get request to endpoint with status code: 200 and time: 1011

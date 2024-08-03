@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="API Test Suite" verbose="1" parallel="tests">
+
+    <listeners>
+        <listener
+                class-name="com.api.core.reporting.ExtentTestNGITestListener">
+        </listener>
+    </listeners>
+    <test name="User Tests">
+        <classes>
+            <class name="com.api.test.UserTests"/>
+        </classes>
+    </test>
+    <test name="Pet Tests">
+        <classes>
+            <class name="com.api.test.PetTests"/>
+        </classes>
+    </test>
+</suite>
